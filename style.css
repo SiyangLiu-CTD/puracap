@@ -310,6 +310,7 @@ body{
 .header .logo {
 	float: left;
 	margin-top: 18px;
+	margin-right: 60px;
 }
 .header .navbar {
 	background: none;
